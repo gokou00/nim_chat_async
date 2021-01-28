@@ -1,2 +1,2 @@
 # nim_chat_async
-A Asynchronous chat app using nim
+An Asynchronous chat app using nim
